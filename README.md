@@ -1,0 +1,2 @@
+# myJavaToolsClass
+toolclass
